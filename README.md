@@ -2,20 +2,19 @@
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+There are familiar obvious ways for getting started with this repo.
 
 #### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, then install dependencies;  Or just download the zip and npm run intall from the cd'd directory...
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/mdevelopment/Beyond--React-YouTube-Video-App.git
+> cd Beyond--React-YouTube-Video-App
 > npm install
 > npm start
 ```
 
 #### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
 > npm install
