@@ -1,0 +1,82 @@
+body {
+
+  text-decoration: none;
+}
+a:link {
+  text-decoration: none;
+}
+.video-item img {
+  /*max-width: 64px;*/
+}
+
+.video-detail  .details {
+margin-top: 10px;
+padding :10px;
+border 1px solid #ddd;
+border-radius: 4px
+}
+
+
+ p {
+    margin: 20px 10px 10px 10px;
+}
+
+.list-group-item {
+
+  cursor: pointer;
+  margin-bottom:5px;
+  padding:10px;
+}
+
+.list-group-item:hover {
+
+  cursor: pointer;
+  background-color: #eee;
+}
+
+.media-object {
+  float: left;
+  clear: left;
+}
+.media-heading {
+    margin-top: 0;
+    margin-bottom: 5px;
+    margin-left: 11px;
+}
+.videotitle {
+  margin-top: 1px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  font-size:15px;
+  font-weight:bolder;
+}
+.listtitles {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size:15px;
+  font-weight:bolder;
+}
+.detailPubAt {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size:12px;
+    margin-left: 15px;
+  font-weight:bolder;
+
+}
+
+.backBtn {
+  margin-top:10px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  font-size: 3vw;
+  color:#337ab7;
+}
+
+.listTitle {
+  margin-top:20px;
+  margin-bottom: 20px;
+  margin-left: 5px;
+  font-size: 3vw;
+  color:#337ab7;
+}
